@@ -1,0 +1,17 @@
+# Byte-compiled
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.venv
+env/
+venv/
+
+main_v0.ipynb
+
+KLGrade_dataset/
