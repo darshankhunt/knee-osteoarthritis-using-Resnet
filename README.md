@@ -27,11 +27,11 @@ This project applies deep learning (ResNet18) to classify knee X-ray images into
 
 ## Features
 
-- Custom PyTorch dataset loader
-- Strong data augmentation (crop, rotate, color jitter, blur)
-- Class weighting for imbalanced data
-- Per-epoch training \& validation metrics
-- Learning curve plots
+- Custom PyTorch dataset loader.
+- Strong data augmentation (crop, rotate, color jitter, blur).
+- Class weighting for imbalanced data.
+- Per-epoch training \& validation metrics.
+- Learning curve plots.
 
 ---
 
