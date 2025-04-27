@@ -96,8 +96,8 @@ Note: Dataset is not provided in this repo. Please use your own or request acces
 
 ### Learning Curves
 
-- **Training accuracy:** ~87%
-- **Validation accuracy:** ~82%
+- **Training accuracy:** ~86%
+- **Validation accuracy:** ~84%
 
 ---
 
