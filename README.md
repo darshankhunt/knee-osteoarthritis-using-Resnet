@@ -87,7 +87,7 @@ KLGrade_dataset/
   ├── 3/
   └── 4/
 ```
-Note: Dataset is not provided in this repo. Please use your own or request access if available.
+Dataset Link: https://www.kaggle.com/datasets/dhruvacube/osteoarthritis/
 
 
 ---
